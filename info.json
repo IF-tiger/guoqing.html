@@ -1,0 +1,218 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://wan.ltyuanfang.cn/guoqing/",
+            "path": "index.html",
+            "saved": true,
+            "size": 5343,
+            "children": [
+                {
+                    "url": "https://wan.ltyuanfang.cn/guoqing/index.html",
+                    "path": "index_1.html",
+                    "saved": true,
+                    "size": 5343,
+                    "children": [
+                        {
+                            "url": "https://wan.ltyuanfang.cn/guoqing/img/act-done-happy.png",
+                            "path": "img/act-done-happy.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://wan.ltyuanfang.cn/guoqing/img/hat7.png",
+                            "path": "img/hat7.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://wan.ltyuanfang.cn/guoqing/img/hat0.png",
+                            "path": "img/hat0.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://wan.ltyuanfang.cn/guoqing/img/hat2.png",
+                            "path": "img/hat2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://wan.ltyuanfang.cn/guoqing/img/hat3.png",
+                            "path": "img/hat3.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://wan.ltyuanfang.cn/guoqing/img/hat1.png",
+                            "path": "img/hat1.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://wan.ltyuanfang.cn/guoqing/img/hat4.png",
+                            "path": "img/hat4.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://wan.ltyuanfang.cn/guoqing/img/hat5.png",
+                            "path": "img/hat5.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://wan.ltyuanfang.cn/guoqing/img/hat6.png",
+                            "path": "img/hat6.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://wan.ltyuanfang.cn/guoqing/img/fabric.min.js",
+                            "path": "js/fabric.min.js",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://wan.ltyuanfang.cn/guoqing/img/strap.min.css",
+                            "path": "css/strap.min.css",
+                            "saved": true,
+                            "size": 10032,
+                            "children": [
+                                {
+                                    "url": "https://mat1.gtimg.com/bbs/static/20190829-bg.png",
+                                    "path": "img/20190829-bg.png",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "http://mat1.gtimg.com/bbs/static/20190906-logo2.png",
+                                    "path": "img/20190906-logo2.png",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "http://mat1.gtimg.com/bbs/static/20190906-logo3.png",
+                                    "path": "img/20190906-logo3.png",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://mat1.gtimg.com/bbs/static/20190829-btn.png",
+                                    "path": "img/20190829-btn.png",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://mat1.gtimg.com/bbs/qqnewslite/20190923/btn1.png",
+                                    "path": "img/btn1.png",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://mat1.gtimg.com/bbs/20190924/save-btn.png",
+                                    "path": "img/save-btn.png",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://mat1.gtimg.com/bbs/qqnewslite/20190923/btn3.png",
+                                    "path": "img/btn3.png",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://mat1.gtimg.com/bbs/static/20190829-longpress.svg",
+                                    "path": "img/20190829-longpress.svg",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "url": "https://hao.ltyuanfang.cn/favicon.ico",
+                            "path": "favicon.ico",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "alias": "wan-ltyuanfang-cn-y7ay79vs",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://wan.ltyuanfang.cn/guoqing/img/strap.min.css",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "https://wan.ltyuanfang.cn/guoqing/",
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Wed, 29 Sep 2021 04:39:05 GMT",
+                "content-type": "text/html",
+                "last-modified": "Tue, 28 Sep 2021 15:06:15 GMT",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "etag": "W/\"61532f67-15f7\"",
+                "strict-transport-security": "max-age=31536000"
+            }
+        },
+        "time": {
+            "start": "2021-09-29T04:38:59.042Z",
+            "end": "2021-09-29T04:39:21.165Z"
+        },
+        "remark": [],
+        "ip": "81.70.241.110",
+        "url": "https://wan.ltyuanfang.cn/guoqing/",
+        "main": "index.html",
+        "domain": "wan.ltyuanfang.cn",
+        "origin": "https://wan.ltyuanfang.cn",
+        "totalSize": "20.7 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "https://wan.ltyuanfang.cn/guoqing/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
